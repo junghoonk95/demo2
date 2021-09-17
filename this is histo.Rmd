@@ -8,8 +8,8 @@ output: github_document
 
 a=c(1,2,3)
 #histogram
-hist(a)
-
+b=hist(a)
+print(b)
 "this is histo"
 
 ```
