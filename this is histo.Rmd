@@ -1,0 +1,15 @@
+---
+title: "demo2"
+author: "Junghoon Kang"
+date: '2021 9 17 '
+output: github_document
+---
+```{r}
+
+a=c(1,2,3)
+#histogram
+hist(a)
+
+"this is histo"
+
+```
